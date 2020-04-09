@@ -9,7 +9,7 @@
 
 OR
 
-- `npm i https://github.com/htorbov/capacitor-apple-login`
+- `npm i https://github.com/adam-h/capacitor-apple-login`
 
 ## Usage (iOS)
 

@@ -41,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/htorbov/capacitor-apple-login"
+    "url": "https://github.com/adam-h/capacitor-apple-login"
   },
   "bugs": {
-    "url": "https://github.com/htorbov/capacitor-apple-login/issues"
+    "url": "https://github.com/adam-h/capacitor-apple-login/issues"
   }
 }
